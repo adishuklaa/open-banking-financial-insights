@@ -2,8 +2,6 @@
 
 ![Project Screenshot](screenshots/dashboard.png)
 
-![Dashboard Preview](./screenshots/dashboard.png)
-
 ## 📖 Product Overview
 
 **OpenFi** is a modern, responsive financial dashboard prototype designed to demonstrate the power of Open Banking. By simulating connected accounts, the platform provides users with holistic financial insights, aggregating data across multiple institutions to offer a single source of truth for their finances. The application includes transaction categorization, income detection, cash-flow analysis, and a simulated consent flow reflecting real-world Open Banking privacy standards (like PSD2 and Open Banking UK).
