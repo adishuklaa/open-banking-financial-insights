@@ -160,20 +160,3 @@ If expanding this into a production app, AI would be leveraged for:
 *(Note: There are no environment variables required for this prototype as all data is synthetic).*
 
 ---
-
-## 🎤 Interview Talking Points
-
-- **60-sec Explanation:** "I built OpenFi, a React-based FinTech dashboard prototype that simulates an Open Banking environment. It demonstrates how fragmented financial data can be aggregated to provide users with actionable insights like net worth tracking, spend categorization, and income analysis, complete with a compliant user consent flow."
-- **The Problem:** Financial data is heavily siloed. Users struggle to track their true financial health across multiple institutions.
-- **The Decision:** Focused on the UX of the dashboard and consent flow using synthetic data, rather than building a heavy backend integration, to rapidly validate the user interface.
-- **The Tradeoff:** Sacrificed real-time bank data integration (via Plaid/Tink) in favor of zero-friction setup and immediate visual feedback.
-- **The Tech:** React with Vite for fast build times, Tailwind for a clean, modern aesthetic, and Recharts for responsive financial data visualization.
-- **The AI Angle:** Future iterations would utilize NLP for merchant string normalization and predictive modeling for cash-flow forecasting.
-- **Metrics:** Success would be measured by Account Link Success Rate and Session Frequency.
-- **Next Steps:** Integrating an actual sandbox API (like Plaid Link) and building out subscription detection logic.
-- **Questions for the Interviewer:** "How does your team currently handle transaction categorization accuracy? Do you rely on the aggregator's categorization, or do you have a proprietary internal model?"
-
----
-
-## ⚠️ Disclaimer
-This is a prototype built for portfolio and demonstration purposes. It does not connect to real financial institutions or APIs, and all data shown is synthetic. It is not intended for actual financial use.
