@@ -1,5 +1,7 @@
 # Open Banking Financial Insights (OpenFi)
 
+![Project Screenshot](screenshots/dashboard.png)
+
 ![Dashboard Preview](./screenshots/dashboard.png)
 
 ## 📖 Product Overview
